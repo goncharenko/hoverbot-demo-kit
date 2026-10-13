@@ -1,0 +1,10 @@
+{
+  "name": "hoverbot-demo-kit",
+  "version": "0.1.0",
+  "description": "Shared visual chrome for HoverBot industry demo sites (disclosure banner, scenario panel). Each demo repo keeps its own fictional company text and its own fiction-disclosure build check; this package holds only the structure and styling that is identical across demos.",
+  "license": "UNLICENSED",
+  "private": false,
+  "peerDependencies": {
+    "react": ">=18"
+  }
+}
